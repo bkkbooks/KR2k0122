@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR2k0122/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2k0122/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 吳中舊事
+  date: '2015-08-24 22:46:23.786873'
+  source:
+    repository: kanripo
+    path: KR2k0122
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0122_000-WYG.yaml, hash: 'sha256:89c3b185d8f25d0ed42a815a66aa4b70569d1c29ebbf07f61cbfd6dbd004761b'}
+  - {seq: 1, filename: KR2k0122_001-WYG.yaml, hash: 'sha256:e60cba80562ee31b854879b7c0f9b3723944473626a2d4a3df845b8f84982bd7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0122_000-WYG.markers.yaml, hash: 'sha256:32c0f1faf3613cb08545a3207606d3aa86a2a6011a23121c70f83a81ddec3010'}
+  - {seq: 1, role: markers, filename: assets/KR2k0122_001-WYG.markers.yaml, hash: 'sha256:2a496858336010625cf452df564bbe60d2ad2ed634a3baa930851becce651553'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0122_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 262
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2k0122_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 8771
+  label: 吳中舊事
+  type: section
+  level: 1
+hash: sha256:317e35c1eff4abf199775a131ca8b5e616620c88dc3127c99e654f46264d41b0
