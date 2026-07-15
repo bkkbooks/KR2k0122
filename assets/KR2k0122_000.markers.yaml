@@ -30,6 +30,8 @@ markers:
   - {type: punctuation, offset: 14, content: (, id: KR2k0122_krp_000-bkkpn4}
   - {type: punctuation, offset: 15, content: /, id: KR2k0122_krp_000-bkkpn5}
   - {type: punctuation, offset: 15, content: ), id: KR2k0122_krp_000-bkkpn6}
+  - {type: substitution, offset: 18, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
+  - {type: substitution, offset: 23, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: 'kr:newline', offset: 31, content: '
 
       ', id: KR2k0122_krp_000-bkkkrnewl4}
@@ -45,6 +47,9 @@ markers:
       ', id: KR2k0122_krp_000-bkkkrnewl6}
   - {type: line-break, offset: 65, content: '', id: KR2k0122_WYG_000-1a07}
   - {type: indent, offset: 65, content: 　　　　, id: KR2k0122_krp_000-bkkind7}
+  - {type: substitution, offset: 66, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
+  - {type: substitution, offset: 67, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
+  - {type: substitution, offset: 68, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: 'kr:newline', offset: 82, content: '
 
       ', id: KR2k0122_krp_000-bkkkrnewl7}
@@ -64,11 +69,14 @@ markers:
       ', id: KR2k0122_krp_000-bkkkrnewl10}
   - {type: line-break, offset: 116, content: '', id: KR2k0122_WYG_000-1b02}
   - {type: indent, offset: 116, content: 　　　　, id: KR2k0122_krp_000-bkkind10}
+  - {type: substitution, offset: 131, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
+  - {type: substitution, offset: 132, original: 襍, replacement: 雜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16376}}
   - {type: 'kr:newline', offset: 133, content: '
 
       ', id: KR2k0122_krp_000-bkkkrnewl11}
   - {type: line-break, offset: 133, content: '', id: KR2k0122_WYG_000-1b03}
   - {type: indent, offset: 133, content: 　　　　, id: KR2k0122_krp_000-bkkind11}
+  - {type: substitution, offset: 136, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: 'kr:newline', offset: 150, content: '
 
       ', id: KR2k0122_krp_000-bkkkrnewl12}
@@ -84,6 +92,7 @@ markers:
       ', id: KR2k0122_krp_000-bkkkrnewl14}
   - {type: line-break, offset: 184, content: '', id: KR2k0122_WYG_000-1b06}
   - {type: indent, offset: 184, content: 　　　　, id: KR2k0122_krp_000-bkkind14}
+  - {type: substitution, offset: 196, original: 脱, replacement: 脫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19795}}
   - {type: 'kr:newline', offset: 201, content: '
 
       ', id: KR2k0122_krp_000-bkkkrnewl15}
@@ -133,4 +142,4 @@ markers:
 
       ', id: KR2k0122_krp_000-bkkkrnewl21}
   back: []
-hash: sha256:a9828152a3cc5c5ad085c1e19134f5f6f0626b24ca3936888533099d8fadba1f
+hash: sha256:8e71f3324c20ab55bb76237c1c680e693188c0b84d619d19d44731f3999347fb
