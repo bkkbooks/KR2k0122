@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR2k0122_000-WYG.yaml, hash: 'sha256:89c3b185d8f25d0ed42a815a66aa4b70569d1c29ebbf07f61cbfd6dbd004761b'}
   - {seq: 1, filename: KR2k0122_001-WYG.yaml, hash: 'sha256:e60cba80562ee31b854879b7c0f9b3723944473626a2d4a3df845b8f84982bd7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0122_000-WYG.markers.yaml, hash: 'sha256:32c0f1faf3613cb08545a3207606d3aa86a2a6011a23121c70f83a81ddec3010'}
-  - {seq: 1, role: markers, filename: assets/KR2k0122_001-WYG.markers.yaml, hash: 'sha256:2a496858336010625cf452df564bbe60d2ad2ed634a3baa930851becce651553'}
+  - {seq: 0, role: markers, filename: assets/KR2k0122_000-WYG.markers.yaml, hash: 'sha256:c9c50b8266fb8290020f6c4b741fd31b6fce085d78e5aee354310842d72c9b8a'}
+  - {seq: 1, role: markers, filename: assets/KR2k0122_001-WYG.markers.yaml, hash: 'sha256:99ceb9b7306b8f32f9a8b565dbfc7d467a2988de550f100ed20b5c4384501b59'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 吳中舊事
   type: section
   level: 1
-hash: sha256:317e35c1eff4abf199775a131ca8b5e616620c88dc3127c99e654f46264d41b0
+hash: sha256:4323ccd00826a014539bb8ec7411b3a3d0299de578beba5131e0f691b11a90ca

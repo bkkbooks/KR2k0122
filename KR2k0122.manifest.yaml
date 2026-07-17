@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2k0122_000.yaml, hash: 'sha256:05807d5979184627aaf88c20c6861848f2c2a5a965033083ddc641529fa1153f'}
   - {seq: 1, filename: KR2k0122_001.yaml, hash: 'sha256:c771f69465ec900fa7c29bbd465709e4727085318d1cd929dad55993372422b6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0122_000.markers.yaml, hash: 'sha256:8e71f3324c20ab55bb76237c1c680e693188c0b84d619d19d44731f3999347fb'}
-  - {seq: 1, role: markers, filename: assets/KR2k0122_001.markers.yaml, hash: 'sha256:cfed10237d4024abbf3d4e86db40f7b767649c5d61613593e3e939eac29bfb17'}
+  - {seq: 0, role: markers, filename: assets/KR2k0122_000.markers.yaml, hash: 'sha256:f230ed6f39bc22982ff7bc24326273c25e177aff793dc6de0a0b69ed6690d805'}
+  - {seq: 1, role: markers, filename: assets/KR2k0122_001.markers.yaml, hash: 'sha256:90edda3ab50f21ab1848f23444b8924f18f438c2ed249aa362102069d590555e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 吳中舊事
   type: section
   level: 1
-hash: sha256:ead19ade64a4a4aa318ff99b937aa55e450fbdb021f9eced4af4ec682ecd91db
+hash: sha256:24660b36f2a7cecdb86db7ec0fefdc04ad7bb13226ebe2e51ba2233c52725a8b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
